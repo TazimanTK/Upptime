@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/upptime.tazimantk.accesscam.org.ico",
     "slug": "upptime",
     "status": "up",
-    "uptime": "6.39%",
-    "uptimeDay": "6.39%",
-    "uptimeWeek": "6.39%",
-    "uptimeMonth": "6.39%",
-    "uptimeYear": "6.39%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-07-29": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
