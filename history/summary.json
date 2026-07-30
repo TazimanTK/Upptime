@@ -4,19 +4,19 @@
     "url": "https://tazimantk.freedynamicdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/tazimantk.freedynamicdns.org.ico",
     "slug": "main-page-1",
-    "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.48%",
+    "status": "down",
+    "uptime": "97.01%",
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "97.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-30": 10
+      "2026-07-30": 20
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tazimantk.0000004.xyz.ico",
     "slug": "main-page-2",
     "status": "down",
-    "uptime": "99.24%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
+    "uptime": "97.75%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "97.75%",
+    "uptimeYear": "97.75%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-30": 5
+      "2026-07-30": 15
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tazimantk.accesscam.org.ico",
     "slug": "main-page-3",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "98.50%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.50%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-30": 0
+      "2026-07-30": 10
     }
   },
   {
