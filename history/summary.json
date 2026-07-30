@@ -5,53 +5,59 @@
     "icon": "https://icons.duckduckgo.com/ip3/tazimantk.freedynamicdns.org.ico",
     "slug": "main-page-1",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.48%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "98.48%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-30": 10
+    }
   },
   {
     "name": "MainPage (2)",
     "url": "https://tazimantk.0000004.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/tazimantk.0000004.xyz.ico",
     "slug": "main-page-2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-30": 5
+    }
   },
   {
     "name": "MainPage (3)",
     "url": "https://tazimantk.accesscam.org/",
     "icon": "https://icons.duckduckgo.com/ip3/tazimantk.accesscam.org.ico",
     "slug": "main-page-3",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-30": 0
+    }
   },
   {
     "name": "Upptime",
