@@ -8,6 +8,10 @@ sites:
     url: https://tazimantk.0000004.xyz/
   - name: MainPage (3)
     url: https://tazimantk.accesscam.org/
+  - name: Invidious
+    url: https://invidious.tazimantk.0000004.xyz/
+  - name: InvidiousInstances
+    url: https://instances.invidious.tazimantk.0000004.xyz/
   - name: Upptime
     url: https://upptime.tazimantk.accesscam.org/
 
