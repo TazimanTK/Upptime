@@ -10,8 +10,12 @@ sites:
     url: https://tazimantk.accesscam.org/
   - name: Invidious
     url: https://invidious.tazimantk.0000004.xyz/
-  - name: InvidiousInstances
+  - name: Instances-API (Invidious)
     url: https://instances.invidious.tazimantk.0000004.xyz/
+  - name: Cobalt
+    url: https://cobalt.tazimantk.0000004.xyz/
+  - name: Cobalt-API
+    url: https://api.cobalt.tazimantk.0000004.xyz/
   - name: Upptime
     url: https://upptime.tazimantk.accesscam.org/
 
