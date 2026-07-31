@@ -18,6 +18,14 @@ sites:
     url: https://api.cobalt.tazimantk.0000004.xyz/
   - name: Upptime
     url: https://upptime.tazimantk.accesscam.org/
+  - name: Farside
+    url: https://farside.tazimantk.accesscam.org/
+  - name: Pastewin
+    url: https://pastewin.tazimantk.accesscam.org/
+  - name: Kittygram
+    url: https://kittygram.tazimantk.accesscam.org/
+  - name: Patchy
+    url: https://patchy.tazimantk.accesscam.org/
 
 status-website:
   cname: upptime.tazimantk.accesscam.org
