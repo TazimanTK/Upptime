@@ -5,9 +5,15 @@ sites:
   - name: MainPage (1)
     url: https://tazimantk.freedynamicdns.org/
   - name: MainPage (2)
-    url: https://tazimantk.0000004.xyz/
+    url: https://tazimantk.publicvm.com/
+  - name: Upptime
+    url: https://upptime.tazimantk.publicvm.com/
   - name: MainPage (3)
     url: https://tazimantk.accesscam.org/
+  - name: MainPage (4)
+    url: https://tazimantk.camdvr.org/
+  - name: MainPage (5)
+    url: https://tazimantk.casacam.net/
   - name: Invidious
     url: https://invidious.tazimantk.0000004.xyz/
   - name: Instances-API (Invidious)
@@ -16,7 +22,7 @@ sites:
     url: https://cobalt.tazimantk.0000004.xyz/
   - name: Cobalt-API
     url: https://api.cobalt.tazimantk.0000004.xyz/
-  - name: Upptime
+  - name: Upptime11
     url: https://upptime.tazimantk.accesscam.org/
   - name: Farside
     url: https://farside.tazimantk.accesscam.org/
@@ -26,9 +32,17 @@ sites:
     url: https://kittygram.tazimantk.accesscam.org/
   - name: Patchy
     url: https://patchy.tazimantk.accesscam.org/
+  - name: LibreX
+    url: https://librex.tazimantk.camdvr.org/
+  - name: LibreY
+    url: https://librey.tazimantk.camdvr.org/
+  - name: SearXNG
+    url: https://searxng.tazimantk.camdvr.org/
+  - name: 015
+    url: https://015.tazimantk.camdvr.org/
 
 status-website:
-  cname: upptime.tazimantk.accesscam.org
+  cname: upptime.tazimantk.publicvm.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: TazimanTK Web Status
   introTitle: "**TazimanTK's Services** Status"
