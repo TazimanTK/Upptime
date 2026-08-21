@@ -18,26 +18,28 @@ sites:
     url: https://api.cobalt.tazimantk.publicvm.com/
   - name: -Farside-
     url: https://farside.tazimantk.publicvm.com/
+  - name: -Pastewin-
+    url: https://pastewin.tazimantk.publicvm.com/
+  - name: -Kittygram-
+    url: https://kittygram.tazimantk.publicvm.com/
+  - name: -Patchy-
+    url: https://patchy.tazimantk.publicvm.com/
+  - name: -Cloudtube-
+    url: https://cloudtube.tazimantk.publicvm.com/
+  - name: -LibreX-
+    url: https://librex.tazimantk.publicvm.com/
+  - name: -LibreY-
+    url: https://librey.tazimantk.publicvm.com/
+  - name: -SearXNG-
+    url: https://searxng.tazimantk.publicvm.com/
+  - name: -015-
+    url: https://015.tazimantk.publicvm.com/
   - name: -MainPage (3)-
     url: https://tazimantk.accesscam.org/
   - name: -MainPage (4)-
     url: https://tazimantk.camdvr.org/
   - name: -MainPage (5)-
     url: https://tazimantk.casacam.net/
-  - name: -Pastewin-
-    url: https://pastewin.tazimantk.accesscam.org/
-  - name: -Kittygram-
-    url: https://kittygram.tazimantk.accesscam.org/
-  - name: -Patchy-
-    url: https://patchy.tazimantk.accesscam.org/
-  - name: -LibreX-
-    url: https://librex.tazimantk.camdvr.org/
-  - name: -LibreY-
-    url: https://librey.tazimantk.camdvr.org/
-  - name: -SearXNG-
-    url: https://searxng.tazimantk.camdvr.org/
-  - name: -015-
-    url: https://015.tazimantk.camdvr.org/
 
 status-website:
   cname: upptime.tazimantk.publicvm.com
