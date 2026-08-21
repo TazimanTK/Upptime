@@ -8,22 +8,22 @@ sites:
     url: https://tazimantk.publicvm.com/
   - name: -Upptime-
     url: https://upptime.tazimantk.publicvm.com/
+  - name: -Invidious-
+    url: https://invidious.tazimantk.publicvm.com/
+  - name: -Instances-API (Invidious)-
+    url: https://instances.invidious.tazimantk.publicvm.com/
+  - name: -Cobalt-
+    url: https://cobalt.tazimantk.publicvm.com/
+  - name: -Cobalt-API-
+    url: https://api.cobalt.tazimantk.publicvm.com/
+  - name: -Farside-
+    url: https://farside.tazimantk.publicvm.com/
   - name: -MainPage (3)-
     url: https://tazimantk.accesscam.org/
   - name: -MainPage (4)-
     url: https://tazimantk.camdvr.org/
   - name: -MainPage (5)-
     url: https://tazimantk.casacam.net/
-  - name: -Invidious-
-    url: https://invidious.tazimantk.0000004.xyz/
-  - name: -Instances-API (Invidious)-
-    url: https://instances.invidious.tazimantk.0000004.xyz/
-  - name: -Cobalt-
-    url: https://cobalt.tazimantk.0000004.xyz/
-  - name: -Cobalt-API-
-    url: https://api.cobalt.tazimantk.0000004.xyz/
-  - name: -Farside-
-    url: https://farside.tazimantk.accesscam.org/
   - name: -Pastewin-
     url: https://pastewin.tazimantk.accesscam.org/
   - name: -Kittygram-
