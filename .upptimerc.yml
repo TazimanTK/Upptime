@@ -2,41 +2,41 @@ owner: TazimanTK
 repo: Upptime
 
 sites:
-  - name: MainPage (1)
+  - name: -MainPage (1)-
     url: https://tazimantk.freedynamicdns.org/
-  - name: MainPage (2)
+  - name: -MainPage (2)-
     url: https://tazimantk.publicvm.com/
-  - name: Upptime
+  - name: -Upptime-
     url: https://upptime.tazimantk.publicvm.com/
-  - name: MainPage (3)
+  - name: -MainPage (3)-
     url: https://tazimantk.accesscam.org/
-  - name: MainPage (4)
+  - name: -MainPage (4)-
     url: https://tazimantk.camdvr.org/
-  - name: MainPage (5)
+  - name: -MainPage (5)-
     url: https://tazimantk.casacam.net/
-  - name: Invidious
+  - name: -Invidious-
     url: https://invidious.tazimantk.0000004.xyz/
-  - name: Instances-API (Invidious)
+  - name: -Instances-API (Invidious)-
     url: https://instances.invidious.tazimantk.0000004.xyz/
-  - name: Cobalt
+  - name: -Cobalt-
     url: https://cobalt.tazimantk.0000004.xyz/
-  - name: Cobalt-API
+  - name: -Cobalt-API-
     url: https://api.cobalt.tazimantk.0000004.xyz/
-  - name: Farside
+  - name: -Farside-
     url: https://farside.tazimantk.accesscam.org/
-  - name: Pastewin
+  - name: -Pastewin-
     url: https://pastewin.tazimantk.accesscam.org/
-  - name: Kittygram
+  - name: -Kittygram-
     url: https://kittygram.tazimantk.accesscam.org/
-  - name: Patchy
+  - name: -Patchy-
     url: https://patchy.tazimantk.accesscam.org/
-  - name: LibreX
+  - name: -LibreX-
     url: https://librex.tazimantk.camdvr.org/
-  - name: LibreY
+  - name: -LibreY-
     url: https://librey.tazimantk.camdvr.org/
-  - name: SearXNG
+  - name: -SearXNG-
     url: https://searxng.tazimantk.camdvr.org/
-  - name: 015
+  - name: -015-
     url: https://015.tazimantk.camdvr.org/
 
 status-website:
