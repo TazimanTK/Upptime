@@ -4,12 +4,12 @@
     "url": "https://tazimantk.freedynamicdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/tazimantk.freedynamicdns.org.ico",
     "slug": "main-page-1",
-    "status": "up",
-    "uptime": "88.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "81.65%",
-    "uptimeMonth": "88.02%",
-    "uptimeYear": "88.02%",
+    "status": "down",
+    "uptime": "87.87%",
+    "uptimeDay": "94.24%",
+    "uptimeWeek": "80.83%",
+    "uptimeMonth": "87.87%",
+    "uptimeYear": "87.87%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -24,7 +24,8 @@
       "2026-08-22": 246,
       "2026-08-21": 1440,
       "2026-08-20": 87,
-      "2026-08-24": 76
+      "2026-08-24": 76,
+      "2026-08-26": 83
     }
   },
   {
@@ -32,12 +33,12 @@
     "url": "https://tazimantk.publicvm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tazimantk.publicvm.com.ico",
     "slug": "main-page-2",
-    "status": "up",
-    "uptime": "88.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "81.80%",
-    "uptimeMonth": "88.23%",
-    "uptimeYear": "88.23%",
+    "status": "down",
+    "uptime": "88.10%",
+    "uptimeDay": "94.58%",
+    "uptimeWeek": "81.02%",
+    "uptimeMonth": "88.10%",
+    "uptimeYear": "88.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -51,7 +52,8 @@
       "2026-08-22": 241,
       "2026-08-21": 1440,
       "2026-08-20": 83,
-      "2026-08-24": 71
+      "2026-08-24": 71,
+      "2026-08-26": 78
     }
   },
   {
@@ -60,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/upptime.tazimantk.publicvm.com.ico",
     "slug": "upptime",
     "status": "up",
-    "uptime": "89.39%",
+    "uptime": "89.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "64.49%",
-    "uptimeMonth": "89.39%",
-    "uptimeYear": "89.39%",
+    "uptimeWeek": "66.54%",
+    "uptimeMonth": "89.45%",
+    "uptimeYear": "89.45%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -82,12 +84,12 @@
     "url": "https://invidious.tazimantk.publicvm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tazimantk.publicvm.com.ico",
     "slug": "invidious",
-    "status": "up",
-    "uptime": "90.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.37%",
-    "uptimeMonth": "90.89%",
-    "uptimeYear": "90.89%",
+    "status": "down",
+    "uptime": "90.75%",
+    "uptimeDay": "94.92%",
+    "uptimeWeek": "86.64%",
+    "uptimeMonth": "90.75%",
+    "uptimeYear": "90.75%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -100,7 +102,8 @@
       "2026-08-21": 912,
       "2026-08-20": 58,
       "2026-08-22": 237,
-      "2026-08-24": 66
+      "2026-08-24": 66,
+      "2026-08-26": 73
     }
   },
   {
@@ -108,12 +111,12 @@
     "url": "https://instances.invidious.tazimantk.publicvm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/instances.invidious.tazimantk.publicvm.com.ico",
     "slug": "instances-api-invidious",
-    "status": "up",
-    "uptime": "90.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.56%",
-    "uptimeMonth": "90.97%",
-    "uptimeYear": "90.97%",
+    "status": "down",
+    "uptime": "90.84%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "86.88%",
+    "uptimeMonth": "90.84%",
+    "uptimeYear": "90.84%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -126,7 +129,8 @@
       "2026-08-21": 908,
       "2026-08-20": 53,
       "2026-08-22": 232,
-      "2026-08-24": 62
+      "2026-08-24": 62,
+      "2026-08-26": 68
     }
   },
   {
@@ -134,12 +138,12 @@
     "url": "https://cobalt.tazimantk.publicvm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cobalt.tazimantk.publicvm.com.ico",
     "slug": "cobalt",
-    "status": "up",
-    "uptime": "90.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.75%",
-    "uptimeMonth": "90.90%",
-    "uptimeYear": "90.90%",
+    "status": "down",
+    "uptime": "90.78%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "87.12%",
+    "uptimeMonth": "90.78%",
+    "uptimeYear": "90.78%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -153,7 +157,8 @@
       "2026-08-21": 903,
       "2026-08-20": 48,
       "2026-08-22": 227,
-      "2026-08-24": 57
+      "2026-08-24": 57,
+      "2026-08-26": 63
     }
   },
   {
@@ -161,12 +166,12 @@
     "url": "https://api.cobalt.tazimantk.publicvm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.cobalt.tazimantk.publicvm.com.ico",
     "slug": "cobalt-api",
-    "status": "up",
-    "uptime": "91.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.94%",
-    "uptimeMonth": "91.00%",
-    "uptimeYear": "91.00%",
+    "status": "down",
+    "uptime": "90.89%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "87.36%",
+    "uptimeMonth": "90.89%",
+    "uptimeYear": "90.89%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -180,7 +185,8 @@
       "2026-08-21": 898,
       "2026-08-20": 44,
       "2026-08-22": 222,
-      "2026-08-24": 52
+      "2026-08-24": 52,
+      "2026-08-26": 59
     }
   },
   {
@@ -188,12 +194,12 @@
     "url": "https://farside.tazimantk.publicvm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/farside.tazimantk.publicvm.com.ico",
     "slug": "farside",
-    "status": "up",
-    "uptime": "91.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.08%",
-    "uptimeMonth": "91.16%",
-    "uptimeYear": "91.16%",
+    "status": "down",
+    "uptime": "91.06%",
+    "uptimeDay": "96.27%",
+    "uptimeWeek": "87.55%",
+    "uptimeMonth": "91.06%",
+    "uptimeYear": "91.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -207,7 +213,8 @@
       "2026-08-21": 900,
       "2026-08-20": 39,
       "2026-08-22": 216,
-      "2026-08-24": 47
+      "2026-08-24": 47,
+      "2026-08-26": 54
     }
   },
   {
@@ -215,12 +222,12 @@
     "url": "https://pastewin.tazimantk.publicvm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pastewin.tazimantk.publicvm.com.ico",
     "slug": "pastewin",
-    "status": "up",
-    "uptime": "91.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.79%",
-    "uptimeMonth": "91.23%",
-    "uptimeYear": "91.23%",
+    "status": "down",
+    "uptime": "91.15%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "87.30%",
+    "uptimeMonth": "91.15%",
+    "uptimeYear": "91.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -233,7 +240,8 @@
       "2026-08-21": 949,
       "2026-08-20": 34,
       "2026-08-22": 206,
-      "2026-08-24": 42
+      "2026-08-24": 42,
+      "2026-08-26": 49
     }
   },
   {
@@ -241,12 +249,12 @@
     "url": "https://kittygram.tazimantk.publicvm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/kittygram.tazimantk.publicvm.com.ico",
     "slug": "kittygram",
-    "status": "up",
-    "uptime": "91.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.09%",
-    "uptimeMonth": "91.37%",
-    "uptimeYear": "91.37%",
+    "status": "down",
+    "uptime": "91.30%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "87.65%",
+    "uptimeMonth": "91.30%",
+    "uptimeYear": "91.30%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -258,7 +266,8 @@
       "2026-08-21": 949,
       "2026-08-20": 29,
       "2026-08-22": 185,
-      "2026-08-24": 38
+      "2026-08-24": 38,
+      "2026-08-26": 44
     }
   },
   {
@@ -266,12 +275,12 @@
     "url": "https://patchy.tazimantk.publicvm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/patchy.tazimantk.publicvm.com.ico",
     "slug": "patchy",
-    "status": "up",
-    "uptime": "91.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.25%",
-    "uptimeMonth": "91.43%",
-    "uptimeYear": "91.43%",
+    "status": "down",
+    "uptime": "91.37%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "87.86%",
+    "uptimeMonth": "91.37%",
+    "uptimeYear": "91.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -283,7 +292,8 @@
       "2026-08-21": 949,
       "2026-08-20": 24,
       "2026-08-22": 179,
-      "2026-08-24": 33
+      "2026-08-24": 33,
+      "2026-08-26": 39
     }
   },
   {
@@ -291,12 +301,12 @@
     "url": "https://cloudtube.tazimantk.publicvm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cloudtube.tazimantk.publicvm.com.ico",
     "slug": "cloudtube",
-    "status": "up",
-    "uptime": "96.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "96.79%",
-    "uptimeYear": "96.79%",
+    "status": "down",
+    "uptime": "96.36%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "96.36%",
+    "uptimeMonth": "96.36%",
+    "uptimeYear": "96.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -304,7 +314,8 @@
     "timeYear": 0,
     "dailyMinutesDown": {
       "2026-08-22": 174,
-      "2026-08-24": 28
+      "2026-08-24": 28,
+      "2026-08-26": 34
     }
   },
   {
@@ -312,12 +323,12 @@
     "url": "https://librex.tazimantk.publicvm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/librex.tazimantk.publicvm.com.ico",
     "slug": "libre-x",
-    "status": "up",
-    "uptime": "93.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.88%",
-    "uptimeMonth": "93.88%",
-    "uptimeYear": "93.88%",
+    "status": "down",
+    "uptime": "93.63%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "93.63%",
+    "uptimeMonth": "93.63%",
+    "uptimeYear": "93.63%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -327,7 +338,8 @@
       "2026-08-21": 189,
       "2026-08-20": 19,
       "2026-08-22": 169,
-      "2026-08-24": 23
+      "2026-08-24": 23,
+      "2026-08-26": 29
     }
   },
   {
@@ -335,12 +347,12 @@
     "url": "https://librey.tazimantk.publicvm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/librey.tazimantk.publicvm.com.ico",
     "slug": "libre-y",
-    "status": "up",
-    "uptime": "94.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.12%",
-    "uptimeMonth": "94.12%",
-    "uptimeYear": "94.12%",
+    "status": "down",
+    "uptime": "93.94%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "93.94%",
+    "uptimeMonth": "93.94%",
+    "uptimeYear": "93.94%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -350,7 +362,8 @@
       "2026-08-21": 187,
       "2026-08-20": 14,
       "2026-08-22": 164,
-      "2026-08-24": 18
+      "2026-08-24": 18,
+      "2026-08-26": 25
     }
   },
   {
@@ -358,12 +371,12 @@
     "url": "https://searxng.tazimantk.publicvm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/searxng.tazimantk.publicvm.com.ico",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "94.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.55%",
-    "uptimeMonth": "94.55%",
-    "uptimeYear": "94.55%",
+    "status": "down",
+    "uptime": "94.43%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "94.43%",
+    "uptimeMonth": "94.43%",
+    "uptimeYear": "94.43%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -372,7 +385,8 @@
     "dailyMinutesDown": {
       "2026-08-21": 187,
       "2026-08-20": 9,
-      "2026-08-22": 160
+      "2026-08-22": 160,
+      "2026-08-26": 20
     }
   },
   {
@@ -380,19 +394,20 @@
     "url": "https://015.tazimantk.publicvm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/015.tazimantk.publicvm.com.ico",
     "slug": "015",
-    "status": "up",
-    "uptime": "97.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.63%",
-    "uptimeMonth": "97.63%",
-    "uptimeYear": "97.63%",
+    "status": "down",
+    "uptime": "97.48%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "97.48%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 155
+      "2026-08-22": 155,
+      "2026-08-26": 15
     }
   },
   {
@@ -400,12 +415,12 @@
     "url": "https://tazimantk.accesscam.org/",
     "icon": "https://icons.duckduckgo.com/ip3/tazimantk.accesscam.org.ico",
     "slug": "main-page-3",
-    "status": "up",
-    "uptime": "88.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "83.05%",
-    "uptimeMonth": "88.59%",
-    "uptimeYear": "88.59%",
+    "status": "down",
+    "uptime": "88.62%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "82.95%",
+    "uptimeMonth": "88.62%",
+    "uptimeYear": "88.62%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -418,7 +433,8 @@
       "2026-08-17": 1210,
       "2026-08-22": 196,
       "2026-08-21": 1440,
-      "2026-08-20": 73
+      "2026-08-20": 73,
+      "2026-08-26": 10
     }
   },
   {
@@ -426,12 +442,12 @@
     "url": "https://tazimantk.camdvr.org/",
     "icon": "https://icons.duckduckgo.com/ip3/tazimantk.camdvr.org.ico",
     "slug": "main-page-4",
-    "status": "up",
-    "uptime": "93.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.86%",
-    "uptimeMonth": "93.86%",
-    "uptimeYear": "93.86%",
+    "status": "down",
+    "uptime": "93.98%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "93.98%",
+    "uptimeMonth": "93.98%",
+    "uptimeYear": "93.98%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -440,7 +456,8 @@
     "dailyMinutesDown": {
       "2026-08-21": 188,
       "2026-08-20": 68,
-      "2026-08-22": 145
+      "2026-08-22": 145,
+      "2026-08-26": 5
     }
   },
   {
@@ -460,7 +477,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 40,
+      "2026-08-26": 247,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
