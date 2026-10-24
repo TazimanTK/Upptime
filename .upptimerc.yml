@@ -8,6 +8,14 @@ sites:
     url: https://tazimantk.f5.si/
   - name: -Upptime-
     url: https://upptime.tazimantk.f5.si/
+  - name: -015-
+    url: https://015.tazimantk.f5.si/
+  - name: -1time-
+    url: https://1time.tazimantk.f5.si/
+  - name: -2FAuth-
+    url: https://2fauth.tazimantk.f5.si/
+  - name: -4ga Boards-
+    url: https://4ga-boards.tazimantk.f5.si/
 
 status-website:
   cname: upptime.tazimantk.publicvm.com
