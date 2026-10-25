@@ -18,7 +18,7 @@ sites:
     url: https://4ga-boards.tazimantk.f5.si/
 
 status-website:
-  cname: upptime.tazimantk.publicvm.com
+  cname: upptime.tazimantk.f5.si
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: TazimanTK Web Status
   introTitle: "**TazimanTK's Services** Status"
