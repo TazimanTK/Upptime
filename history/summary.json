@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tazimantk.freedynamicdns.org.ico",
     "slug": "main-page-1",
     "status": "down",
-    "uptime": "37.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "97.96%",
+    "uptime": "37.76%",
+    "uptimeDay": "43.80%",
+    "uptimeWeek": "91.97%",
     "uptimeMonth": "24.43%",
-    "uptimeYear": "37.99%",
+    "uptimeYear": "37.76%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -80,7 +80,8 @@
       "2026-08-31": 1440,
       "2026-08-30": 1029,
       "2026-10-22": 947,
-      "2026-10-29": 7
+      "2026-10-30": 208,
+      "2026-10-29": 601
     }
   },
   {
@@ -89,11 +90,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tazimantk.f5.si.ico",
     "slug": "main-page-2",
     "status": "down",
-    "uptime": "36.97%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "97.98%",
+    "uptime": "36.75%",
+    "uptimeDay": "43.89%",
+    "uptimeWeek": "91.98%",
     "uptimeMonth": "23.93%",
-    "uptimeYear": "36.97%",
+    "uptimeYear": "36.75%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -164,7 +165,8 @@
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 806,
-      "2026-10-29": 5
+      "2026-10-30": 209,
+      "2026-10-29": 600
     }
   },
   {
@@ -173,11 +175,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/upptime.tazimantk.f5.si.ico",
     "slug": "upptime",
     "status": "up",
-    "uptime": "94.23%",
+    "uptime": "94.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.01%",
+    "uptimeWeek": "73.00%",
     "uptimeMonth": "92.12%",
-    "uptimeYear": "94.23%",
+    "uptimeYear": "94.27%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -214,7 +216,8 @@
     "dailyMinutesDown": {
       "2026-08-22": 155,
       "2026-08-26": 595,
-      "2026-10-29": 846,
+      "2026-10-30": 209,
+      "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
@@ -284,18 +287,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/1time.tazimantk.f5.si.ico",
     "slug": "1time",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "90.36%",
+    "uptimeDay": "44.06%",
+    "uptimeWeek": "90.36%",
+    "uptimeMonth": "90.36%",
+    "uptimeYear": "90.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-29": 3
+      "2026-10-30": 209,
+      "2026-10-29": 597
     }
   },
   {
@@ -304,18 +308,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/2fauth.tazimantk.f5.si.ico",
     "slug": "2-f-auth",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "90.37%",
+    "uptimeDay": "44.16%",
+    "uptimeWeek": "90.37%",
+    "uptimeMonth": "90.37%",
+    "uptimeYear": "90.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-29": 1
+      "2026-10-30": 209,
+      "2026-10-29": 596
     }
   },
   {
@@ -324,18 +329,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/4ga-boards.tazimantk.f5.si.ico",
     "slug": "4ga-boards",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "90.39%",
+    "uptimeDay": "44.25%",
+    "uptimeWeek": "90.39%",
+    "uptimeMonth": "90.39%",
+    "uptimeYear": "90.39%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-29": 0
+      "2026-10-30": 209,
+      "2026-10-29": 594
     }
   }
 ]
